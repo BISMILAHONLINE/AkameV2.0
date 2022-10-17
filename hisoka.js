@@ -177,10 +177,10 @@ module.exports = hisoka = async (hisoka, m, chatUpdate, store) => {
 	    },
 	    "message": {
 	        groupInviteMessage: {
-	            groupJid: '6289636827082-1635036556@g.us',
-	            inviteCode: 'https://chat.whatsapp.com/FGmVjFYJBjjGst62qwNKJB',
-	            groupName: 'Akame Bot',
-	            caption: '© GuaAbuzz',
+	            groupJid: '6288980870067-1635036556@g.us',
+	            inviteCode: 'https://chat.whatsapp.com/KbgGdT1cV3rD5JzJDZryis',
+	            groupName: 'Siesta Multi Device',
+	            caption: '© Swift',
 	            thumbnail: fs.readFileSync('./image/hisoka.jpg'),
 	            }
 	        }
@@ -1161,8 +1161,8 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
 📚 *Base : Dika Ardnt* 
 ⌲ https://github.com/DikaArdnt/Hisoka-Morou
 
-🌱 *Recode By : GuaAbuzz*
-⎙ https://github.com/Abuzzpoet/AkameV2.0`
+🌱 *Recode By : Swift Developer*
+⎙ https://github.com/XyzenzKannaV1/SiestaV7`
                 let btn = [{
                     urlButton: {
                         displayText: 'TikTok Creator',
